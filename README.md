@@ -273,10 +273,7 @@ WHERE rn = 1;
 4. Show 2–3 plots: daily time series, top locations bar chart, and hourly heatmap.
 5. Present *key findings* and finish with *recommendations* and next steps.
 
----
 
-## Contact / notes
 
-If you want the README exported as a `.docx` or adjusted to be shorter (one-page summary) or longer (detailed slide script with speaker notes), tell me which format you prefer and I will prepare it.
 
-*End of README*
+
